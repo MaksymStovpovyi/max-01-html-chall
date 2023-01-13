@@ -2,6 +2,8 @@
 
 ## Module 1 Challenge
 
-* This repository is homework of Maksym Stovpovyi
+This repository is homework of Maksym Stovpovyi
 
-* January 2023
+* I added semantic tags to the html file
+* I organized the css file
+* i added comments
