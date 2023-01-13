@@ -13,4 +13,4 @@ This repository is homework of Maksym Stovpovyi
 The following image shows the web application's appearance and functionality:
 
 
-![demo](./Assets/01-html-css-git-homework-demo.png)
+![demo](Assets/01-html-css-git-homework-demo.png)
