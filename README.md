@@ -4,7 +4,7 @@
 
 This repository is homework of Maksym Stovpovyi
 
-[Link to deployed application](https://maksymstovpovyi.github.io/max-01-html-chall/)
+[Link to deployed application](https://youtu.be/P4Mu1t5rIXg)
 
 * I added semantic tags to the html file
 * I organized the css file
@@ -13,4 +13,4 @@ This repository is homework of Maksym Stovpovyi
 The following image shows the web application's appearance and functionality:
 
 
-![demo](Assets/01-html-css-git-homework-demo.png)
+![demo](./assets/01-html-css-git-homework-demo.png)
